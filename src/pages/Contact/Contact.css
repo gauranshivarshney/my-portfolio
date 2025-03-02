@@ -94,3 +94,40 @@
     font-size: var(--h3-font-size);
     line-height: 64px;
 }
+
+@media screen and (max-width: 1024px) {
+    .contact__container {
+      grid-template-columns: 1fr;
+    }
+    .contact__data {
+      text-align: center;
+    }
+    .contact__socials {
+      justify-content: center;
+    }
+    .form__input-group {
+      flex-direction: column;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .contact {
+      padding: 2rem 1rem;
+    }
+    .contact__title {
+      font-size: 1.8rem;
+    }
+    .contact__description {
+      font-size: 1rem;
+    }
+    .form__control {
+      font-size: 1rem;
+    }
+    .button {
+      font-size: 1rem;
+      padding: 0.7rem 1.2rem;
+    }
+    .button__icon{
+        display: none;
+    }
+  }

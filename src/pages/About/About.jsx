@@ -21,12 +21,14 @@ export default function About() {
             <ul className='info__list grid'>
               <Info />
             </ul>
+            <div className='cv'>
             <a href={CV} download='' className='button'>
               Download Cv
               <span className='button__icon'>
                 <FaDownload />
               </span>
             </a>
+            </div>
           </div>
           <div className='stats grid'>
             <Stats />
