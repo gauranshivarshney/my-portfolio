@@ -1,12 +1,38 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🧑‍💻 [Gauranshi Varshney]
+Welcome to my portfolio! I am an MCA student specializing in frontend development, full-stack development and python programming. Here, you can find information about my skills, projects, and how to get in touch with me.
 
-Currently, two official plugins are available:
+🌟 About Me
+I am a passionate developer with a strong foundation in various technologies and a keen interest in building efficient and scalable web applications. My expertise spans across frontend development, python programming, AI/ML, and mobile app development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Skills
+Frontend Development:
 
-## Expanding the ESLint configuration
+HTML, CSS, JavaScript, React
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Backend Development:
+
+Node.js, Express
+EJS
+MongoDB
+
+Mobile App Development:
+
+React Native
+
+Other Technologies:
+
+Python, AI/ML
+
+MERN Stack (MongoDB, Express, React, Node.js)
+
+📫 Contact Me
+
+Email: gauranshivarshney@gmail.com
+
+LinkedIn: www.linkedin.com/in/gauranshi-varshney-01b64a233
+
+GitHub: https://github.com/gauranshivarshney
+
+Thank you for visiting my portfolio! Feel free to reach out if you have any questions or would like to collaborate on a project.
