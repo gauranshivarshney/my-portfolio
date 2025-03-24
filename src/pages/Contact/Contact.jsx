@@ -107,12 +107,14 @@ export default function Contact() {
             >
             </textarea>
           </div>
+          <div className='button-container'>
           <button className='button' type='submit'>
             Send Message
             <span className='button__icon contact__button-icon'>
               <FiSend />
             </span>
           </button>
+          </div>
         </form>
       </div>
     </section>

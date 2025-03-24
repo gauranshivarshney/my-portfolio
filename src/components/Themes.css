@@ -84,11 +84,10 @@
     right: 15px;
 }
 
-/*@media (max-width: 390px){
-    .style__switcher{
-        display: none;
+@media (max-width: 449px){
+    .style__switcher,
+    .theme__toggler,
+    .style__switcher-toggler{
+        display: none !important;
     }
-    .theme__toggler{
-        display: none;
-    }
-}*/
+}
