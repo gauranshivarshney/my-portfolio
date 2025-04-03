@@ -227,8 +227,8 @@ export const projects = [
     img: Work1,
     title: 'E-commerce Website',
     techStack: ['React', 'Node.js', 'MongoDB', 'CSS'],
-    liveDemo: 'https://gauranshivarshney.github.io/jai-sweet-frontend/',
-    github: 'https://github.com/gauranshivarshney/jai-sweet-frontend'
+    liveDemo: ' https://gauranshivarshney.github.io/jaisweet-frontend/',
+    github: 'https://github.com/gauranshivarshney/jaisweet-frontend'
   },
 
   {
